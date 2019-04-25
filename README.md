@@ -1,2 +1,4 @@
 # dotnetcoretuts
-dotnetcore tutoria
+dotnetcore tutorial
+
+Simple .net core project
